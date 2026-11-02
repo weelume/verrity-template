@@ -1,0 +1,186 @@
+{
+  "$schema": "./schemas/customization.schema.json",
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "品牌与适配",
+      "description": "默认品牌与消费方注入边界",
+      "files": [
+        {
+          "path": "src/features/verrity/config/brand.ts",
+          "kind": "file",
+          "purpose": "默认品牌"
+        },
+        {
+          "path": "src/features/verrity/host.tsx",
+          "kind": "file",
+          "purpose": "消费方注入"
+        }
+      ],
+      "constraints": [
+        "保留用户修改，中英文同步维护",
+        "变更后运行适用检查，更新真实展示截图"
+      ],
+      "checks": [
+        "typecheck",
+        "build"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "页面与双语内容",
+      "description": "文章、职位、方案、FAQ 与政策",
+      "files": [
+        {
+          "path": "src/features/verrity/content",
+          "kind": "directory",
+          "purpose": "业务内容"
+        },
+        {
+          "path": "src/features/verrity/pages",
+          "kind": "directory",
+          "purpose": "页面组合"
+        }
+      ],
+      "constraints": [
+        "保留用户修改，中英文同步维护",
+        "变更后运行适用检查，更新真实展示截图"
+      ],
+      "checks": [
+        "typecheck",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "theme",
+      "title": "主题与响应式",
+      "description": "排版、玻璃卡片、滚动条和三端布局",
+      "files": [
+        {
+          "path": "src/features/verrity/theme.css",
+          "kind": "file",
+          "purpose": "主题及公共组件"
+        },
+        {
+          "path": "src/features/verrity/pages.css",
+          "kind": "file",
+          "purpose": "页面响应式"
+        }
+      ],
+      "constraints": [
+        "保留用户修改，中英文同步维护",
+        "变更后运行适用检查，更新真实展示截图"
+      ],
+      "checks": [
+        "typecheck",
+        "build"
+      ]
+    },
+    {
+      "id": "motion",
+      "title": "动效与交互",
+      "description": "循环、暂停、逐字呈现、拖拽、表单和菜单",
+      "files": [
+        {
+          "path": "src/features/verrity/components",
+          "kind": "directory",
+          "purpose": "公共交互和动画"
+        }
+      ],
+      "constraints": [
+        "保留用户修改，中英文同步维护",
+        "变更后运行适用检查，更新真实展示截图"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "routes",
+      "title": "页面路由和元数据",
+      "description": "双语路径、页面注册和市场展示",
+      "files": [
+        {
+          "path": "src/features/verrity/template.tsx",
+          "kind": "file",
+          "purpose": "注册表"
+        },
+        {
+          "path": "src/app",
+          "kind": "directory",
+          "purpose": "独立路由"
+        },
+        {
+          "path": ".tpl/template.json",
+          "kind": "file",
+          "purpose": "纯 JSON 市场资料"
+        }
+      ],
+      "constraints": [
+        "保留用户修改，中英文同步维护",
+        "变更后运行适用检查，更新真实展示截图"
+      ],
+      "checks": [
+        "typecheck",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "assets",
+      "title": "素材与来源",
+      "description": "本地图片、SVG、字体和来源记录",
+      "files": [
+        {
+          "path": "public/templates/verrity",
+          "kind": "directory",
+          "purpose": "运行素材"
+        },
+        {
+          "path": "docs",
+          "kind": "directory",
+          "purpose": "来源与许可记录"
+        }
+      ],
+      "constraints": [
+        "保留用户修改，中英文同步维护",
+        "变更后运行适用检查，更新真实展示截图"
+      ],
+      "checks": [
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "environment",
+      "title": "运行环境",
+      "description": "本地端口和监听地址",
+      "files": [
+        {
+          "path": "scripts/next.mjs",
+          "kind": "file",
+          "purpose": "启动入口"
+        },
+        {
+          "path": ".tpl/contracts/env.schema.json",
+          "kind": "file",
+          "purpose": "变量合同"
+        }
+      ],
+      "constraints": [
+        "保留用户修改，中英文同步维护",
+        "变更后运行适用检查，更新真实展示截图"
+      ],
+      "checks": [
+        "typecheck",
+        "build"
+      ]
+    }
+  ]
+}

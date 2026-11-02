@@ -1,0 +1,1 @@
+export const brand={name:{zh:'Verity',en:'Verity'},year:2026,email:'hello@verity.ai',support:'support@verity.ai',security:'security@verity.ai',press:'press@verity.ai',assetRoot:'/templates/verrity',gitUrl:'https://github.com/weelume/verrity-template'}

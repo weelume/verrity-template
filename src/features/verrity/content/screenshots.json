@@ -1,0 +1,86 @@
+[
+  {
+    "src": "/templates/verrity/screenshots/desktop-home.webp",
+    "alt": "桌面端首页",
+    "device": "desktop",
+    "width": 1430,
+    "height": 993
+  },
+  {
+    "src": "/templates/verrity/screenshots/desktop-integrations.webp",
+    "alt": "桌面端集成生态",
+    "device": "desktop",
+    "width": 1430,
+    "height": 993
+  },
+  {
+    "src": "/templates/verrity/screenshots/desktop-blog.webp",
+    "alt": "桌面端博客",
+    "device": "desktop",
+    "width": 1430,
+    "height": 993
+  },
+  {
+    "src": "/templates/verrity/screenshots/desktop-contact.webp",
+    "alt": "桌面端联系我们",
+    "device": "desktop",
+    "width": 1430,
+    "height": 993
+  },
+  {
+    "src": "/templates/verrity/screenshots/tablet-home.webp",
+    "alt": "平板端首页",
+    "device": "tablet",
+    "width": 824,
+    "height": 1166
+  },
+  {
+    "src": "/templates/verrity/screenshots/tablet-integrations.webp",
+    "alt": "平板端集成生态",
+    "device": "tablet",
+    "width": 824,
+    "height": 1166
+  },
+  {
+    "src": "/templates/verrity/screenshots/tablet-blog.webp",
+    "alt": "平板端博客",
+    "device": "tablet",
+    "width": 824,
+    "height": 1166
+  },
+  {
+    "src": "/templates/verrity/screenshots/tablet-contact.webp",
+    "alt": "平板端联系我们",
+    "device": "tablet",
+    "width": 824,
+    "height": 1166
+  },
+  {
+    "src": "/templates/verrity/screenshots/mobile-home.webp",
+    "alt": "手机端首页",
+    "device": "mobile",
+    "width": 380,
+    "height": 822
+  },
+  {
+    "src": "/templates/verrity/screenshots/mobile-integrations.webp",
+    "alt": "手机端集成生态",
+    "device": "mobile",
+    "width": 380,
+    "height": 822
+  },
+  {
+    "src": "/templates/verrity/screenshots/mobile-blog.webp",
+    "alt": "手机端博客",
+    "device": "mobile",
+    "width": 380,
+    "height": 822
+  },
+  {
+    "src": "/templates/verrity/screenshots/mobile-contact.webp",
+    "alt": "手机端联系我们",
+    "device": "mobile",
+    "width": 380,
+    "height": 822
+  }
+]

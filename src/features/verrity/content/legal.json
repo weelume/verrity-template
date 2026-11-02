@@ -1,0 +1,473 @@
+[
+  {
+    "slug": "privacy-policy",
+    "title": [
+      "隐私政策",
+      "Privacy policy"
+    ],
+    "date": "2026-10-01",
+    "minutes": 6,
+    "blocks": [
+      {
+        "kind": "p",
+        "text": [
+          "只读取你选择分享的内容，数据仅对工作空间可见，不会用于为其他人训练模型。",
+          "Verity reads only what you choose to share, keeps it private to your workspace, and never uses it to train models for anyone else."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "1. 我们收集什么",
+          "1. What we collect"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "我们收集你提供的账户信息，例如姓名、工作邮箱和公司。接入工具时，只读取你选择分享的文件夹、频道或记录。",
+          "We collect the account details you give us, such as your name, work email and company. When you connect a tool, we read only the folders, channels or records you choose to share."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "注册时填写的账户信息",
+          "Account details you enter when you sign up"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "来自已连接工具的文档和记录",
+          "Documents and records from tools you connect"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "使用数据，例如使用了哪些功能",
+          "Usage data, such as which features you use"
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "2. 如何使用信息",
+          "2. How we use it"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "我们使用信息来运行 Verity、提供有来源的回答并保障账户安全。不会使用你的文档为其他人训练模型。",
+          "We use your information to run Verity, answer your questions with sources, and keep your account secure. We never use your documents to train models for anyone else."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "3. 与谁共享",
+          "3. Who we share it with"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "仅根据书面协议，与帮助运行 Verity 的服务商共享数据，且仅限其必要范围。",
+          "We share data only with the providers that help us run Verity, under written agreements, and only as much as each one needs."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "欧盟和美国的云托管",
+          "Cloud hosting in the EU and US"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "账户消息的邮件投递",
+          "Email delivery for account messages"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "发票相关的支付处理",
+          "Payment processing for invoices"
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "4. 保留多久",
+          "4. How long we keep it"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "账户开启期间保留数据。删除工作空间后，文档会在 30 天内移除，备份在 90 天内清除。",
+          "We keep your data for as long as your account is open. When you delete a workspace, we remove its documents within 30 days and its backups within 90."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "5. 你的权利",
+          "5. Your rights"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "随时可以申请查看、更正、导出或删除数据。请联系 privacy@verity.example，我们会在 30 天内回复。",
+          "You can ask to see, correct, export or delete your data at any time. Write to privacy@verity.example and we will reply within 30 days."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "6. 政策变更",
+          "6. Changes to this policy"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "若数据处理方式变化，我们会更新本页，并至少在生效前 30 天向工作空间所有者发送邮件。",
+          "If we change how we handle your data, we will update this page and email workspace owners at least 30 days before the change takes effect."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "terms-of-service",
+    "title": [
+      "服务条款",
+      "Terms of service"
+    ],
+    "date": "2026-10-01",
+    "minutes": 7,
+    "blocks": [
+      {
+        "kind": "p",
+        "text": [
+          "文档始终属于你。你可以随时取消，Verity 给出的每个答案都附有可供人工核查的来源。",
+          "Your documents stay yours. You can cancel any time, and every answer Verity gives comes with a source a person can check."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "1. 使用 Verity",
+          "1. Using Verity"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "你或你的团队使用 Verity 时，适用这些条款。创建工作空间即表示代表所在组织同意这些条款。",
+          "These terms apply when you or your team use Verity. By creating a workspace, you agree to them on behalf of your organisation."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "2. 你的账户",
+          "2. Your account"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "你负责所邀请的成员，并妥善保管登录信息。怀疑账户遭到滥用时，请立即告知我们。",
+          "You are responsible for the people you invite and for keeping sign-in details safe. Tell us straight away if you think your account has been misused."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "3. 你的内容",
+          "3. Your content"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "文档属于你。仅为向你提供 Verity 服务而授权我们处理文档，你可以随时移除。",
+          "Your documents stay yours. You give us permission to process them only to provide Verity to you, and you can remove them at any time."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "我们不出售你的内容",
+          "We do not sell your content"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "不会使用内容训练共享模型",
+          "We do not train shared models on it"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "你可以导出添加的所有内容",
+          "You can export everything you add"
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "4. 费用与计费",
+          "4. Fees and billing"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "付费方案按月或按年预付。可以随时取消，方案会持续到已付费周期结束。",
+          "Paid plans are billed in advance, monthly or yearly. You can cancel at any time, and your plan stays active until the end of the period you paid for."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "5. 责任",
+          "5. Liability"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "Verity 展示来源，以便人工核查每个答案。借助它做出的决定仍由你负责，我们的责任以过去 12 个月你支付的费用为限。",
+          "Verity shows its sources so a person can check every answer. Decisions you make with it remain yours, and our liability is limited to the fees you paid in the last 12 months."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "6. 终止协议",
+          "6. Ending the agreement"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "可以随时关闭工作空间。我们可能暂停违反条款的账户，并说明原因。",
+          "You can close your workspace whenever you like. We may suspend accounts that break these terms, and we will tell you why."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "cookie-policy",
+    "title": [
+      "Cookie 政策",
+      "Cookie policy"
+    ],
+    "date": "2026-08-12",
+    "minutes": 3,
+    "blocks": [
+      {
+        "kind": "p",
+        "text": [
+          "我们只使用少量 Cookie 来保持登录和统计访问，不用于广告。",
+          "We use a small number of cookies to keep you signed in and count visits. None are used for advertising."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "1. 什么是 Cookie",
+          "1. What cookies are"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "Cookie 是网站保存在浏览器中的小文件，帮助网站在再次访问时记住你。",
+          "Cookies are small files a website stores in your browser. They help a site remember you between visits."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "2. 我们使用的 Cookie",
+          "2. Cookies we use"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "我们尽量减少 Cookie，且从不用于广告。",
+          "We keep cookies to a minimum and never use them for advertising."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "必要 Cookie：保持登录和工作空间安全",
+          "Essential: keep you signed in and your workspace secure"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "偏好 Cookie：记住语言等设置",
+          "Preferences: remember settings such as language"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "分析 Cookie：统计访问，不识别个人身份",
+          "Analytics: count visits, without identifying you"
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "3. 如何关闭",
+          "3. Turning them off"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "可以在浏览器设置中拦截或删除 Cookie。必要 Cookie 是 Verity 运行所需，拦截它们会导致退出登录。",
+          "You can block or delete cookies in your browser settings. Essential cookies are needed for Verity to work, so blocking them will sign you out."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "4. 有疑问",
+          "4. Questions"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "如对 Cookie 使用有任何问题，请联系 privacy@verity.example。",
+          "Write to privacy@verity.example if you have any questions about how we use cookies."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "security",
+    "title": [
+      "安全政策",
+      "Security"
+    ],
+    "date": "2026-10-01",
+    "minutes": 4,
+    "blocks": [
+      {
+        "kind": "p",
+        "text": [
+          "所有内容均加密，访问只读且有日志，每年由独立机构进行测试。",
+          "Everything is encrypted, access is read-only and logged, and independent firms test Verity every year."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "1. 加密",
+          "1. Encryption"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "传输采用 TLS 1.3，静态存储采用 AES-256 加密，密钥会自动轮换。",
+          "Everything is encrypted in transit with TLS 1.3 and at rest with AES-256. Encryption keys are rotated automatically."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "2. 访问",
+          "2. Access"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "Verity 只以只读权限读取你接入的来源。内部团队访问生产环境需要另一人审批。",
+          "Verity reads only what you connect, and only with read access. Inside our team, production access needs a second person to approve it."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "基于 SAML 的单点登录",
+          "Single sign-on with SAML"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "基于角色的权限",
+          "Role-based permissions"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "记录每个答案的完整审计日志",
+          "Full audit log of every answer"
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "3. 基础设施",
+          "3. Infrastructure"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "运行在欧盟和美国的主流云平台上，具备每日备份和经过测试的恢复流程。",
+          "We run on major cloud providers in the EU and US, with daily backups and tested recovery."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "4. 测试",
+          "4. Testing"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "独立机构每年测试 Verity，并为研究人员提供公开漏洞披露计划。",
+          "Independent firms test Verity every year, and we run a public disclosure programme for researchers."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "5. 报告问题",
+          "5. Reporting an issue"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "发现问题请联系 security@verity.example，我们会在一个工作日内回复。",
+          "Found a problem? Write to security@verity.example. We reply within one working day."
+        ]
+      }
+    ]
+  }
+]

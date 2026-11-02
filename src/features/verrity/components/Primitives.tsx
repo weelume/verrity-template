@@ -1,0 +1,16 @@
+'use client'
+import Link from 'next/link'
+import {createContext,useContext,type ReactNode,type ComponentProps} from 'react'
+import {motion,useReducedMotion} from 'framer-motion'
+import {pageHref} from '../utils'
+import {t,type Locale,type Text} from '../types'
+export const PageContext=createContext<{locale:Locale;basePath:string;brandName:string}>({locale:'zh',basePath:'',brandName:'Verity'})
+export const usePage=()=>useContext(PageContext)
+export function Copy({text}:{text:Text}){const {locale,brandName}=usePage();return t(text,locale).replaceAll('Verity',brandName)}
+export function SiteLink({slug='',children,...props}:Omit<ComponentProps<typeof Link>,'href'>&{slug?:string;children:ReactNode}){const {locale,basePath}=usePage();return <Link {...props} href={pageHref(basePath,locale,slug)}>{children}</Link>}
+export function ButtonLink({slug,children,secondary=false,...props}:Omit<ComponentProps<typeof Link>,'href'>&{slug:string;children:ReactNode;secondary?:boolean}){return <SiteLink {...props} slug={slug} className={`v-button ${secondary?'v-button-secondary':''} ${props.className??''}`}><span className="v-button-label"><span>{children}</span><span aria-hidden="true">{children}</span></span></SiteLink>}
+export function Mark({className=''}:{className?:string}){return <svg className={className} width="26" height="26" viewBox="0 0 32 32" fill="none" aria-hidden="true"><path d="M4 24h24M7 20a9 9 0 0 1 18 0M16 3v4M5 8l3 3M27 8l-3 3M2 17h4m20 0h4" stroke="currentColor" strokeWidth="1.4"/><path d="M16 12v3m-2-1.5h4" stroke="currentColor"/></svg>}
+export function Title({text,as='h2',className=''}:{text:Text;as?:'h1'|'h2'|'h3';className?:string}){const {locale,brandName}=usePage(),reduce=useReducedMotion();const content=t(text,locale).replaceAll('Verity',brandName);const Tag=as;return <Tag className={`v-title ${className}`} aria-label={content.replaceAll('/',' ')}>{content.split(locale==='zh'?'/':' ').map((word,i)=><motion.span className="v-word-mask" key={i} initial={reduce?false:'hidden'} whileInView="visible" viewport={{once:true,amount:.15}}><motion.span aria-hidden="true" variants={{hidden:{y:'108%',rotate:2},visible:{y:0,rotate:0}}} transition={{duration:.85,delay:Math.min(i*.045,.42),ease:[.22,1,.36,1]}}>{word}{locale==='en'?'\u00a0':''}</motion.span></motion.span>)}</Tag>}
+export function Reveal({children,direction='up',className='',delay=0}:{children:ReactNode;direction?:'up'|'left'|'right';className?:string;delay?:number}){const reduce=useReducedMotion();return <motion.div className={className} initial={reduce?false:{opacity:0,y:direction==='up'?38:0,x:direction==='left'?'-3%':direction==='right'?'3%':0}} whileInView={{opacity:1,x:0,y:0}} viewport={{once:true,amount:.12}} transition={{duration:.8,delay,ease:[.22,1,.36,1]}}>{children}</motion.div>}
+export function SectionHeading({title,description,center=false}:{title:Text;description?:Text;center?:boolean}){return <div className={`v-section-heading ${center?'v-center':''}`}><Title text={title}/>{description&&<p className="v-muted"><Copy text={description}/></p>}</div>}
+export function Picture({file,alt='',className='',eager=false}:{file:string;alt?:string;className?:string;eager?:boolean}){return <img className={className} src={'/templates/verrity/images/'+file} alt={alt} loading={eager?'eager':'lazy'} decoding="async"/>}

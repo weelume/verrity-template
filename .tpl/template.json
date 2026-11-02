@@ -1,0 +1,353 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "verrity",
+  "gitUrl": "https://github.com/weelume/verrity-template",
+  "name": "Verity · 可溯源 AI 协作",
+  "localizedNames": {
+    "en": "Verity · AI copilot"
+  },
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "AI SaaS",
+    "可溯源",
+    "工作流",
+    "中英文",
+    "三端响应式"
+  ],
+  "summary": "云海暮色与深色工作台构成的 AI 协作官网，包含动态助手、价格计算器、集成分类、团队、招聘、博客、更新日志与完整双语政策",
+  "accentColor": "#d8b79a",
+  "version": "1.0.0",
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "src": "assets/desktop-home.webp",
+      "alt": "桌面端首页",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993
+    },
+    {
+      "src": "assets/desktop-integrations.webp",
+      "alt": "桌面端集成生态",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993
+    },
+    {
+      "src": "assets/desktop-blog.webp",
+      "alt": "桌面端博客",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993
+    },
+    {
+      "src": "assets/desktop-contact.webp",
+      "alt": "桌面端联系我们",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993
+    },
+    {
+      "src": "assets/tablet-home.webp",
+      "alt": "平板端首页",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166
+    },
+    {
+      "src": "assets/tablet-integrations.webp",
+      "alt": "平板端集成生态",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166
+    },
+    {
+      "src": "assets/tablet-blog.webp",
+      "alt": "平板端博客",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166
+    },
+    {
+      "src": "assets/tablet-contact.webp",
+      "alt": "平板端联系我们",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166
+    },
+    {
+      "src": "assets/mobile-home.webp",
+      "alt": "手机端首页",
+      "device": "mobile",
+      "width": 380,
+      "height": 822
+    },
+    {
+      "src": "assets/mobile-integrations.webp",
+      "alt": "手机端集成生态",
+      "device": "mobile",
+      "width": 380,
+      "height": 822
+    },
+    {
+      "src": "assets/mobile-blog.webp",
+      "alt": "手机端博客",
+      "device": "mobile",
+      "width": 380,
+      "height": 822
+    },
+    {
+      "src": "assets/mobile-contact.webp",
+      "alt": "手机端联系我们",
+      "device": "mobile",
+      "width": 380,
+      "height": 822
+    }
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "首页",
+          "localizedTitles": {
+            "en": "Home"
+          }
+        },
+        {
+          "slug": "about",
+          "title": "关于我们",
+          "localizedTitles": {
+            "en": "About"
+          }
+        },
+        {
+          "slug": "pricing",
+          "title": "价格方案",
+          "localizedTitles": {
+            "en": "Pricing"
+          }
+        },
+        {
+          "slug": "integrations",
+          "title": "集成生态",
+          "localizedTitles": {
+            "en": "Integrations"
+          }
+        },
+        {
+          "slug": "careers",
+          "title": "加入我们",
+          "localizedTitles": {
+            "en": "Careers"
+          }
+        },
+        {
+          "slug": "blog",
+          "title": "博客",
+          "localizedTitles": {
+            "en": "Blog"
+          }
+        },
+        {
+          "slug": "changelog",
+          "title": "更新日志",
+          "localizedTitles": {
+            "en": "Changelog"
+          }
+        },
+        {
+          "slug": "contact",
+          "title": "联系我们",
+          "localizedTitles": {
+            "en": "Contact"
+          }
+        },
+        {
+          "slug": "sign-up",
+          "title": "注册演示",
+          "localizedTitles": {
+            "en": "Sign up"
+          }
+        },
+        {
+          "slug": "sign-in",
+          "title": "登录演示",
+          "localizedTitles": {
+            "en": "Sign in"
+          }
+        },
+        {
+          "slug": "blog/introducing-a-calmer-workspace-for-growing-teams",
+          "title": "为成长中的团队打造更从容的工作空间",
+          "localizedTitles": {
+            "en": "Introducing a calmer workspace for growing teams"
+          }
+        },
+        {
+          "slug": "blog/a-practical-guide-to-onboarding-your-whole-team",
+          "title": "全员入职实用指南",
+          "localizedTitles": {
+            "en": "A practical guide to onboarding your whole team"
+          }
+        },
+        {
+          "slug": "blog/what-we-shipped-in-september",
+          "title": "九月我们交付了什么",
+          "localizedTitles": {
+            "en": "What we shipped in September"
+          }
+        },
+        {
+          "slug": "blog/lessons-from-growing-to-10-000-customers",
+          "title": "服务一万位客户带来的思考",
+          "localizedTitles": {
+            "en": "Lessons from growing to 10,000 customers"
+          }
+        },
+        {
+          "slug": "blog/how-we-design-for-clarity",
+          "title": "为清晰而设计",
+          "localizedTitles": {
+            "en": "How we design for clarity"
+          }
+        },
+        {
+          "slug": "blog/building-a-team-that-writes-things-down",
+          "title": "打造愿意把事情写下来的团队",
+          "localizedTitles": {
+            "en": "Building a team that writes things down"
+          }
+        },
+        {
+          "slug": "careers/senior-product-engineer",
+          "title": "高级产品工程师",
+          "localizedTitles": {
+            "en": "Senior product engineer"
+          }
+        },
+        {
+          "slug": "careers/infrastructure-engineer",
+          "title": "基础设施工程师",
+          "localizedTitles": {
+            "en": "Infrastructure engineer"
+          }
+        },
+        {
+          "slug": "careers/frontend-engineer",
+          "title": "前端工程师",
+          "localizedTitles": {
+            "en": "Frontend engineer"
+          }
+        },
+        {
+          "slug": "careers/engineering-manager",
+          "title": "工程经理",
+          "localizedTitles": {
+            "en": "Engineering manager"
+          }
+        },
+        {
+          "slug": "careers/applied-ai-researcher",
+          "title": "应用 AI 研究员",
+          "localizedTitles": {
+            "en": "Applied AI researcher"
+          }
+        },
+        {
+          "slug": "careers/evaluation-scientist",
+          "title": "评估科学家",
+          "localizedTitles": {
+            "en": "Evaluation scientist"
+          }
+        },
+        {
+          "slug": "careers/product-designer",
+          "title": "产品设计师",
+          "localizedTitles": {
+            "en": "Product designer"
+          }
+        },
+        {
+          "slug": "careers/brand-designer",
+          "title": "品牌设计师",
+          "localizedTitles": {
+            "en": "Brand designer"
+          }
+        },
+        {
+          "slug": "careers/customer-engineer",
+          "title": "客户工程师",
+          "localizedTitles": {
+            "en": "Customer engineer"
+          }
+        },
+        {
+          "slug": "careers/solutions-lead",
+          "title": "解决方案负责人",
+          "localizedTitles": {
+            "en": "Solutions lead"
+          }
+        },
+        {
+          "slug": "careers/recruiting-lead",
+          "title": "招聘负责人",
+          "localizedTitles": {
+            "en": "Recruiting lead"
+          }
+        },
+        {
+          "slug": "legal/privacy-policy",
+          "title": "隐私政策",
+          "localizedTitles": {
+            "en": "Privacy policy"
+          }
+        },
+        {
+          "slug": "legal/terms-of-service",
+          "title": "服务条款",
+          "localizedTitles": {
+            "en": "Terms of service"
+          }
+        },
+        {
+          "slug": "legal/cookie-policy",
+          "title": "Cookie 政策",
+          "localizedTitles": {
+            "en": "Cookie policy"
+          }
+        },
+        {
+          "slug": "legal/security",
+          "title": "安全政策",
+          "localizedTitles": {
+            "en": "Security"
+          }
+        },
+        {
+          "slug": "404",
+          "title": "未找到页面",
+          "localizedTitles": {
+            "en": "Not found"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "restricted",
+    "file": "docs/LICENSE.md",
+    "summary": "源码用于本次演示交付；第三方照片、Logo、签名及设计的商业使用和再分发权未确认。字体遵循各自许可证。",
+    "redistributionAllowed": false
+  }
+}

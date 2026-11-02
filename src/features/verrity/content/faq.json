@@ -1,0 +1,218 @@
+[
+  {
+    "id": "security",
+    "title": [
+      "安全",
+      "Security"
+    ],
+    "items": [
+      {
+        "question": [
+          "我们的数据存在哪里？",
+          "Where does our data live?"
+        ],
+        "answer": [
+          "在你所选区域的独立租户中。文档在静态与传输时均加密，上传内容不会用于训练模型。",
+          "In your own tenant, in the region you choose. Documents are encrypted at rest and in transit, and nothing you upload is used to train models."
+        ]
+      },
+      {
+        "question": [
+          "谁来审批例外？",
+          "Who approves exceptions?"
+        ],
+        "answer": [
+          "由你决定。任何超出政策范围的工作都会等待具名审批人，每次决定都有记录。",
+          "You do. Anything outside policy waits for a named approver, and every decision is logged."
+        ]
+      },
+      {
+        "question": [
+          "可以删除我们的数据吗？",
+          "Can we delete our data?"
+        ],
+        "answer": [
+          "可以。移除来源后，其文档和索引会在 24 小时内删除，删除操作会记录在审计日志中。",
+          "Yes. Removing a source deletes its documents and index within 24 hours, and the deletion is recorded in the audit log."
+        ]
+      },
+      {
+        "question": [
+          "可以签署数据处理协议吗？",
+          "Do you sign a DPA?"
+        ],
+        "answer": [
+          "可以。在签署任何协议之前，即可获取标准数据处理协议和子处理方清单。",
+          "Yes. Our standard DPA and subprocessor list are available before you sign anything."
+        ]
+      },
+      {
+        "question": [
+          "支持单点登录吗？",
+          "Is there single sign-on?"
+        ],
+        "answer": [
+          "所有方案均包含 SAML 单点登录和 SCIM 用户配置。",
+          "SAML single sign-on and SCIM provisioning are included on every plan."
+        ]
+      },
+      {
+        "question": [
+          "审计日志在哪里？",
+          "Where are the audit logs?"
+        ],
+        "answer": [
+          "在管理控制台中。可以导出 CSV，也可以流式传输到你的 SIEM。",
+          "In the admin console. Export them as CSV or stream them to your SIEM."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "accuracy",
+    "title": [
+      "准确性",
+      "Accuracy"
+    ],
+    "items": [
+      {
+        "question": [
+          "答案有多准确？",
+          "How accurate are the answers?"
+        ],
+        "answer": [
+          "每个答案都引用对应的页面。不确定时会明确说明，并将事项交给人工处理，不会猜测。",
+          "Every answer cites the page it came from. When Verity is unsure, it says so and routes the item to a person instead of guessing."
+        ]
+      },
+      {
+        "question": [
+          "来源内容相互矛盾时怎么办？",
+          "What happens when sources disagree?"
+        ],
+        "answer": [
+          "会并排显示两段原文，请审核人判断，不会静默选择其中一个。",
+          "Verity shows both passages side by side and asks a reviewer to decide. It never picks one silently."
+        ]
+      },
+      {
+        "question": [
+          "能检查答案的形成依据吗？",
+          "Can we check how it reached an answer?"
+        ],
+        "answer": [
+          "可以。每个答案都链接到使用过的具体页面和政策条款，审核人可以快速追溯。",
+          "Yes. Each answer links to the exact pages and policy clauses it used, so a reviewer can retrace it in seconds."
+        ]
+      },
+      {
+        "question": [
+          "如何衡量质量？",
+          "How do you measure quality?"
+        ],
+        "answer": [
+          "每次发布都使用受监管团队提供的固定审核案例测试，并向客户公布结果。",
+          "We test every release against a fixed set of reviewed cases from regulated teams and publish the results to customers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "setup",
+    "title": [
+      "开始使用",
+      "Setup"
+    ],
+    "items": [
+      {
+        "question": [
+          "需要多久完成设置？",
+          "How long does setup take?"
+        ],
+        "answer": [
+          "大多数团队一天内接入首批来源，两周内开展真实试用。",
+          "Most teams connect their first sources in a day and run a live pilot within two weeks."
+        ]
+      },
+      {
+        "question": [
+          "可以连接哪些工具？",
+          "Which tools does it connect to?"
+        ],
+        "answer": [
+          "支持 SharePoint、Google Drive、Box、Salesforce、ServiceNow 和邮箱；其他系统可以通过 API 接入。",
+          "SharePoint, Google Drive, Box, Salesforce, ServiceNow and your inbox, plus an API for everything else."
+        ]
+      },
+      {
+        "question": [
+          "需要工程师参与设置吗？",
+          "Do we need engineers to set it up?"
+        ],
+        "answer": [
+          "不需要。管理员可以从控制台连接来源并配置政策。仅使用 API 时需要工程师参与。",
+          "No. An admin connects sources and sets policies from the console. Engineers only get involved if you use the API."
+        ]
+      },
+      {
+        "question": [
+          "可以从一个团队开始吗？",
+          "Can we start with one team?"
+        ],
+        "answer": [
+          "可以。大多数客户从一个队列开始，验证节省的时间，再逐步扩展团队。",
+          "Yes. Most customers start with one queue, prove the time saved, then add teams."
+        ]
+      },
+      {
+        "question": [
+          "会协助推广使用吗？",
+          "Do you help with the rollout?"
+        ],
+        "answer": [
+          "所有方案都包含前 90 天的接入负责人支持和审核人培训。",
+          "Every plan includes a rollout lead for the first 90 days and training for reviewers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pricing",
+    "title": [
+      "价格",
+      "Pricing"
+    ],
+    "items": [
+      {
+        "question": [
+          "如何计费？",
+          "How is it priced?"
+        ],
+        "answer": [
+          "按团队计费，按年支付，包含使用量。审核人不收取席位费用。",
+          "Per team, billed annually, with usage included. There are no per-seat fees for reviewers."
+        ]
+      },
+      {
+        "question": [
+          "有免费试用吗？",
+          "Is there a free pilot?"
+        ],
+        "answer": [
+          "有。可使用自己的文档免费试用 30 天，安全控制与生产环境相同。",
+          "Yes. Pilots run free for 30 days on your own documents, with the same security controls as production."
+        ]
+      },
+      {
+        "question": [
+          "之后可以变更方案吗？",
+          "Can we change plans later?"
+        ],
+        "answer": [
+          "可以。随时添加团队或更换方案，差额按比例计算。",
+          "Yes. Add teams or move plans at any time, and we prorate the difference."
+        ]
+      }
+    ]
+  }
+]

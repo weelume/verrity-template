@@ -1,0 +1,931 @@
+{
+  "source": "https://verrity.framer.website/",
+  "assets": [
+    {
+      "file": "public/templates/verrity/images/1e51fk0dBR1zcbuKiZTsjoq3gnU.png",
+      "url": "https://framerusercontent.com/images/1e51fk0dBR1zcbuKiZTsjoq3gnU.png",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 1722,
+      "sha256": "0aea0fe15964a1138256a621d4dc83ce52615016c0f9ce2fa5fde2d34abac17e",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/1K2ToZecy51ANvW9JGQi3PHQg0.png",
+      "url": "https://framerusercontent.com/images/1K2ToZecy51ANvW9JGQi3PHQg0.png",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 2821,
+      "sha256": "0b25a9ba288f537ba1631056f98f7b82e2e54587f8ac9877854b7242289c471a",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/1wxBQ7e030A3Ck4V338m9tWxOw.svg",
+      "url": "https://framerusercontent.com/images/1wxBQ7e030A3Ck4V338m9tWxOw.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 2193,
+      "sha256": "f7a14acb04f81417c84a00ae51a670888ed59c362c2c7273d57a736b3dd8eb7e",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/2AuhcHPdnf5R5q5s0Tk80QR2PCg.png",
+      "url": "https://framerusercontent.com/images/2AuhcHPdnf5R5q5s0Tk80QR2PCg.png",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 3434,
+      "sha256": "c1a1266233705ea7fc776eade57e7bb1ff7a4affdb2084be4e7e87003f600af7",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/3MK4QKR2dLntb6TukMpNTo40lA.svg",
+      "url": "https://framerusercontent.com/images/3MK4QKR2dLntb6TukMpNTo40lA.svg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 1025,
+      "sha256": "a95b56fcfdea445eadf6dc4a070eabb1882385dc929c80ef6ad7240988b82e69",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/3xLoGTFsJ0X2Wv5t0Y5AJyddDMM.jpg",
+      "url": "https://framerusercontent.com/images/3xLoGTFsJ0X2Wv5t0Y5AJyddDMM.jpg",
+      "pages": [
+        "https://verrity.framer.website/blog/how-we-design-for-clarity",
+        "https://verrity.framer.website/blog",
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 91831,
+      "sha256": "5d2cff37bfd292bc077a5cd92153feff9aef68dbc4f750de88e8aab383e38049",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/5vHZldAEcTkZhV78WcMnJRI3f4.jpg",
+      "url": "https://framerusercontent.com/images/5vHZldAEcTkZhV78WcMnJRI3f4.jpg",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 122589,
+      "sha256": "002cb34662b0d7411c430cc8164ac484041ba34b0391946ef992c12ab7530192",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/68Ghw5go0yMFdmAfpftfjvVdvNE.png",
+      "url": "https://framerusercontent.com/images/68Ghw5go0yMFdmAfpftfjvVdvNE.png",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 10383,
+      "sha256": "47a77b3d0200f64eb69f5228707a8ccedee3255aeb9dee1dada77508d54727b2",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/6qr012qM2P7XMoSsgDfCBldgtw.jpg",
+      "url": "https://framerusercontent.com/images/6qr012qM2P7XMoSsgDfCBldgtw.jpg",
+      "pages": [
+        "https://verrity.framer.website/blog/building-a-team-that-writes-things-down",
+        "https://verrity.framer.website/blog"
+      ],
+      "bytes": 79873,
+      "sha256": "119080b82187648a99e05b5f40f53c6fd5e18a4a9cc77f8359efd5729c39234a",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/6SU7QaShGN1ezaDGJH8as72Bm0.svg",
+      "url": "https://framerusercontent.com/images/6SU7QaShGN1ezaDGJH8as72Bm0.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 322,
+      "sha256": "2eb2353355da2e15c86f294f9044f97312621d371937cf4b31f649be08801ad1",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/7UqurfsmQDcXY3MjnLqSNtO7Bo.jpg",
+      "url": "https://framerusercontent.com/images/7UqurfsmQDcXY3MjnLqSNtO7Bo.jpg",
+      "pages": [
+        "https://verrity.framer.website/blog/introducing-a-calmer-workspace-for-growing-teams",
+        "https://verrity.framer.website/blog/a-practical-guide-to-onboarding-your-whole-team",
+        "https://verrity.framer.website/blog/what-we-shipped-in-september",
+        "https://verrity.framer.website/blog/lessons-from-growing-to-10-000-customers",
+        "https://verrity.framer.website/blog/how-we-design-for-clarity",
+        "https://verrity.framer.website/blog/building-a-team-that-writes-things-down",
+        "https://verrity.framer.website/blog",
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 97546,
+      "sha256": "f8bffdc2d34faff1cde00023fc59861b132893571b6fd7bdd61f759394a25cd6",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/7yggbNkyLRM9IKdTRoJMbJM1S3o.svg",
+      "url": "https://framerusercontent.com/images/7yggbNkyLRM9IKdTRoJMbJM1S3o.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 1014,
+      "sha256": "05f9545c2e40cd3671c0ebbaeaf3104fe086c66bb0ed8454ed447607cce404c4",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/901nwj8TqZNOntlhwKsUI2sjnU.svg",
+      "url": "https://framerusercontent.com/images/901nwj8TqZNOntlhwKsUI2sjnU.svg",
+      "pages": [],
+      "bytes": 593,
+      "sha256": "c49ed2d6a770127f0f828a5f8e75ef4a561580ab71fc342e2dc79d1a564dc8dd",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/94AVTtOsriF9lZnr6pnVWR9eMOI.svg",
+      "url": "https://framerusercontent.com/images/94AVTtOsriF9lZnr6pnVWR9eMOI.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 399,
+      "sha256": "c85fca3b8dbe19453c35c103c1a8df59e3eace7ef5c86fe545f22eae722c81cc",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/98gxlABXzZwnPcJmqG7ON1nNXQ.jpg",
+      "url": "https://framerusercontent.com/images/98gxlABXzZwnPcJmqG7ON1nNXQ.jpg",
+      "pages": [
+        "https://verrity.framer.website/contact"
+      ],
+      "bytes": 171142,
+      "sha256": "38cd6138c2b1b9679a8cade2acedf07be98120917feaea26c6f9d070c98bc9c6",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/9CCdSGnp4wZzkoBdBprccR8bZlc.png",
+      "url": "https://framerusercontent.com/images/9CCdSGnp4wZzkoBdBprccR8bZlc.png",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 2063,
+      "sha256": "04accd0bb7d85e152ffc6ee61646086c35caf9f69888e1129afaee0259716b22",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/9H18GCZqVa5fdVNGpJ1BwRhjf60.jpg",
+      "url": "https://framerusercontent.com/images/9H18GCZqVa5fdVNGpJ1BwRhjf60.jpg",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 189642,
+      "sha256": "f53be5d0c36a282b1fefac7b58f217e28bfad5d516e406e77ef80db8ae74e0bf",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/9QA5AN3E29YfR067sVQtNSCBhM.svg",
+      "url": "https://framerusercontent.com/images/9QA5AN3E29YfR067sVQtNSCBhM.svg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 629,
+      "sha256": "094bb93bcdba4ec434a9d8b2f80a2da674c016d383d4107b1dc68849891dbb57",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/9szodhrSHzUyVMVAHd0nxIZGXo.svg",
+      "url": "https://framerusercontent.com/images/9szodhrSHzUyVMVAHd0nxIZGXo.svg",
+      "pages": [],
+      "bytes": 597,
+      "sha256": "966c08ad474bfd3cdbc44b6c632d6a504ff70c6b101f71cd72ae877ce0c57f8c",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/9sZZNY3nN2CwnTTcRKMNkrvpq0.jpg",
+      "url": "https://framerusercontent.com/images/9sZZNY3nN2CwnTTcRKMNkrvpq0.jpg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 9110,
+      "sha256": "12e062b6cce9c7ae5fd2742effa475a409493c0e4b08b8145f06db2e071f182a",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/afeohhNXbhyo54mCQNf7obPa564.svg",
+      "url": "https://framerusercontent.com/images/afeohhNXbhyo54mCQNf7obPa564.svg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 654,
+      "sha256": "8a3984cb8914f9b6920c25fea275df9dc8a1245324625745292849b961af4da8",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/AsC0rEraHJ0UZaunxW4fXPVpJY.png",
+      "url": "https://framerusercontent.com/images/AsC0rEraHJ0UZaunxW4fXPVpJY.png",
+      "pages": [
+        "https://verrity.framer.website/changelog"
+      ],
+      "bytes": 3911,
+      "sha256": "e92a9d5ad516726465a9a780a4e7aee13d4ee9c809e33814cef4ab54bfad82e4",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/ASgGrbBExpBcDp2IKQxXXsqAOJA.png",
+      "url": "https://framerusercontent.com/images/ASgGrbBExpBcDp2IKQxXXsqAOJA.png",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 2523,
+      "sha256": "db5565de81d470f4791f509194310625d0fa6779cac01102bc853688a7161bad",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/AsWOyipYF29fnKTl732i58WL4bA.jpg",
+      "url": "https://framerusercontent.com/images/AsWOyipYF29fnKTl732i58WL4bA.jpg",
+      "pages": [
+        "https://verrity.framer.website/contact"
+      ],
+      "bytes": 106672,
+      "sha256": "ac71cbca42d09f6d635ed97e8bf21ef0e0449f18c52d684a99bfb26753c0e9f2",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/BJeVdoSYBQP2IAjxrUq1U1KY4.svg",
+      "url": "https://framerusercontent.com/images/BJeVdoSYBQP2IAjxrUq1U1KY4.svg",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 576,
+      "sha256": "25aeb936002af03e234567ffeef563ea75e3fa9c882adf3e3b703016c9b9eb80",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/BUgE4kKtQWiQbx5S9UPtbH0AE.jpg",
+      "url": "https://framerusercontent.com/images/BUgE4kKtQWiQbx5S9UPtbH0AE.jpg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 298750,
+      "sha256": "1bac009db63ae5fe51f1c89d2a1a1cbab4fd4a5fa58fd9a0d88c698015ee18c8",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/BYkI8AUf0WQgXkMYQSh4aWOcNU.jpg",
+      "url": "https://framerusercontent.com/images/BYkI8AUf0WQgXkMYQSh4aWOcNU.jpg",
+      "pages": [],
+      "bytes": 143973,
+      "sha256": "5e864146e9fc006d45d70aa2bdcb0129a4147feb75d92cd9818bdde1fe403c7c",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/c5kUx4PhP2ncXYv8i1PX5o04Ww.jpg",
+      "url": "https://framerusercontent.com/images/c5kUx4PhP2ncXYv8i1PX5o04Ww.jpg",
+      "pages": [
+        "https://verrity.framer.website/blog/a-practical-guide-to-onboarding-your-whole-team",
+        "https://verrity.framer.website/blog/how-we-design-for-clarity",
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 9332,
+      "sha256": "a2970e4f662d7d8659b1a71d7bf9c782a414aafe26de812b0183de488fef01b2",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/CbL64AoUam96k5F1XKz4OEiE.svg",
+      "url": "https://framerusercontent.com/images/CbL64AoUam96k5F1XKz4OEiE.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 631,
+      "sha256": "e649d7843157f4afd93d44e61792cc074b7fa80cdfdbf9ab3ee876915e4a336e",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/CrpzeA1l3cZbr5RNm2LgErRjgeA.jpg",
+      "url": "https://framerusercontent.com/images/CrpzeA1l3cZbr5RNm2LgErRjgeA.jpg",
+      "pages": [
+        "https://verrity.framer.website/blog/introducing-a-calmer-workspace-for-growing-teams",
+        "https://verrity.framer.website/blog/a-practical-guide-to-onboarding-your-whole-team",
+        "https://verrity.framer.website/blog/what-we-shipped-in-september",
+        "https://verrity.framer.website/blog/lessons-from-growing-to-10-000-customers",
+        "https://verrity.framer.website/blog/how-we-design-for-clarity",
+        "https://verrity.framer.website/blog/building-a-team-that-writes-things-down",
+        "https://verrity.framer.website/blog",
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 107346,
+      "sha256": "bd67192f9a75db792d2ad55797ade315013e550ea157c2fdb40ad52fa9447508",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/CSv5UHgi5lCDKCc6zLOqqL73Y0w.jpg",
+      "url": "https://framerusercontent.com/images/CSv5UHgi5lCDKCc6zLOqqL73Y0w.jpg",
+      "pages": [],
+      "bytes": 100574,
+      "sha256": "7bac779df7e3eb7816ec4a3b25d95d8f02248ad7e16a77fc2bf9c33f90f18f1d",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/DaZRbqd7mOEIcbC1idkzKNKhUA.png",
+      "url": "https://framerusercontent.com/images/DaZRbqd7mOEIcbC1idkzKNKhUA.png",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 2665,
+      "sha256": "a5ffafeb7c3e688514429c1af44137beaa9a6d0d19a24990dab007275c9399a8",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/DlL9bBnOXTA7HZWEyM83Uo1e6o.svg",
+      "url": "https://framerusercontent.com/images/DlL9bBnOXTA7HZWEyM83Uo1e6o.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 333,
+      "sha256": "8d26a4556cf901f45b54832e7790335832a8e37d0f11f9a3e471ef976121150f",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/dLPwZxgrrpnhhiACWOn9RBqQ9us.jpg",
+      "url": "https://framerusercontent.com/images/dLPwZxgrrpnhhiACWOn9RBqQ9us.jpg",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 102248,
+      "sha256": "6ff23252e47bf3d707cae67b725ce30c1e1e0955a591ac6745b60d5732f2d90c",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/dLsAFh7ElgiTYxpaKDMuQ9YA9cY.svg",
+      "url": "https://framerusercontent.com/images/dLsAFh7ElgiTYxpaKDMuQ9YA9cY.svg",
+      "pages": [],
+      "bytes": 596,
+      "sha256": "fd77c32919b7c75d02609e72f35fc5cc1a9df8e96df1d02eb84ecf1f8cbc3bd7",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/DnYeGIMXQsEpISBVJR4Wqk4hbNc.svg",
+      "url": "https://framerusercontent.com/images/DnYeGIMXQsEpISBVJR4Wqk4hbNc.svg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 464,
+      "sha256": "2bad4fd3d6170db23cb6b5562ff1b5ff9a3623f854dd5f0f056182a479a157f3",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/E7QrF5sZf1oOC56EYCAhit6DA.svg",
+      "url": "https://framerusercontent.com/images/E7QrF5sZf1oOC56EYCAhit6DA.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 2369,
+      "sha256": "a187a74329fad438479ceb7b1bddd4e6d3e41623715114f8727b9421c1f49ff2",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/EaaWL82aaJ05Ogedk51wMB3f0Q.svg",
+      "url": "https://framerusercontent.com/images/EaaWL82aaJ05Ogedk51wMB3f0Q.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 270,
+      "sha256": "e165e5d4b48fc22a8b84c79427f6dea65d879cd88a8c249f52f4e8a9b4bf30ec",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/eM9eEN76Tmx94Qr994fFZyWsyMM.svg",
+      "url": "https://framerusercontent.com/images/eM9eEN76Tmx94Qr994fFZyWsyMM.svg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 542,
+      "sha256": "183eea0bb40f7b97e69f3daf5fb74b4d6c55d4b5541c8c6749fe14bc55f36d60",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/eyKHMU60T3BKAL3QkeOTLRDCbc.png",
+      "url": "https://framerusercontent.com/images/eyKHMU60T3BKAL3QkeOTLRDCbc.png",
+      "pages": [
+        "https://verrity.framer.website/changelog"
+      ],
+      "bytes": 4550,
+      "sha256": "e4f1c9bf55ba79872ab3007572422f38f074f5d6f400bd4fa751db32d890a916",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/EZrgzHLNCXJ69Uj6jc8FXu7WQto.jpg",
+      "url": "https://framerusercontent.com/images/EZrgzHLNCXJ69Uj6jc8FXu7WQto.jpg",
+      "pages": [
+        "https://verrity.framer.website/blog/lessons-from-growing-to-10-000-customers",
+        "https://verrity.framer.website/blog",
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 241309,
+      "sha256": "85f6d3f8944a67052c2879f35e8ac822bf5b05b30115c3617318ca4990d1f97e",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/f2zKCGNEucmF2bbK9qaF3oXBX28.svg",
+      "url": "https://framerusercontent.com/images/f2zKCGNEucmF2bbK9qaF3oXBX28.svg",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 499,
+      "sha256": "23f028a6b7c7c1b611d218d9de225a350ba4ada35c0d2959def67c17a9403862",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/fqb4v6RWZm02uFEpMQAwW15RKw.svg",
+      "url": "https://framerusercontent.com/images/fqb4v6RWZm02uFEpMQAwW15RKw.svg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 822,
+      "sha256": "5846102ef27e217ac60c4615ade0d026a7a2c7c74c06862ba4b870679de592e0",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/FyH9YtTjFmaQND6CjXAXM5wA5Ck.png",
+      "url": "https://framerusercontent.com/images/FyH9YtTjFmaQND6CjXAXM5wA5Ck.png",
+      "pages": [
+        "https://verrity.framer.website/changelog"
+      ],
+      "bytes": 4426,
+      "sha256": "688052bbfc85cb4d78d49a1189d228b00e229f715edcd4909be62a7ee2afb219",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/g97rEM1wBFlQGtGLTxIdBlk67hY.svg",
+      "url": "https://framerusercontent.com/images/g97rEM1wBFlQGtGLTxIdBlk67hY.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 978,
+      "sha256": "444e2e280ab28f36c57de9b5806462860fccb6c89dd580dd949559680bfafc6f",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/gHvZXADhwfK1d9UZkRflNCE9AI.svg",
+      "url": "https://framerusercontent.com/images/gHvZXADhwfK1d9UZkRflNCE9AI.svg",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 853,
+      "sha256": "28a24f30995a94c3c80634a292c20c17ec6bfbe21ee40d2e32f3db7100d116e2",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/GzqgQXp4rdfq7USybRQ4PH50.svg",
+      "url": "https://framerusercontent.com/images/GzqgQXp4rdfq7USybRQ4PH50.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 1504,
+      "sha256": "a68e93512e5c0f77e23cad4a83eaff4c29d32f59a3bcce7b29ad02a3bebe808c",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/H8h4cdgcQwJsn6kUH6LJfNpVGq4.svg",
+      "url": "https://framerusercontent.com/images/H8h4cdgcQwJsn6kUH6LJfNpVGq4.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 694,
+      "sha256": "66bc7eac730e8e594caddecf3e8e4c9741e20016c7ab55ef2579035772bad71a",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/hNTVjh3nu0D4k9RQNWwLGn9k.png",
+      "url": "https://framerusercontent.com/images/hNTVjh3nu0D4k9RQNWwLGn9k.png",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 4014,
+      "sha256": "2b0902366bfd6a75eb0b008a7281d173189a3ddd452f7589f8632735fa8828c9",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/HUP06xXCSM7krETbm5xSD6mPH0g.jpg",
+      "url": "https://framerusercontent.com/images/HUP06xXCSM7krETbm5xSD6mPH0g.jpg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 6321,
+      "sha256": "62553361a6f897b174c7f7529be78c18a21d136d63df8180d4463b002cecbe83",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/KiVHjFc6pzjyT8FKIbnb3GmzBi8.svg",
+      "url": "https://framerusercontent.com/images/KiVHjFc6pzjyT8FKIbnb3GmzBi8.svg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 825,
+      "sha256": "8df4a7b2e34109b522a23bee92a211cd57cabc0295293315e03cb2a3d67cc4e0",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/kLBjfMnFga2LGSVfBqJ0TSesg.png",
+      "url": "https://framerusercontent.com/images/kLBjfMnFga2LGSVfBqJ0TSesg.png",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 2765,
+      "sha256": "3d8702275ac97efe10b853c52dbecad8bfbea45570d326105c2e7b4676d3fdce",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/KUTQNDwz6Rj4bfnBbG32huBdw.svg",
+      "url": "https://framerusercontent.com/images/KUTQNDwz6Rj4bfnBbG32huBdw.svg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 345,
+      "sha256": "688ff846b192a54aca5365c1133c0c54b29c30eca1af6b71f45631ea2d3981d6",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/lJSgWede0aTXauarFBE9HotzPM.svg",
+      "url": "https://framerusercontent.com/images/lJSgWede0aTXauarFBE9HotzPM.svg",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 428,
+      "sha256": "3be615ee0c4d9a2098adecc8e254e2bdf7c7763fd51678fbdcda6c398afb3e1d",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/Lnc0ndLpQBSiN7FJq3gEVKx9GjI.png",
+      "url": "https://framerusercontent.com/images/Lnc0ndLpQBSiN7FJq3gEVKx9GjI.png",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 1580,
+      "sha256": "adc3af2ed007c4e877e1fefc945003a4a5c68c6ee973e0446c2bf0edf5d139a2",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/lxH7Uc0oeuZIOmCYJB0ZG6ImzU.svg",
+      "url": "https://framerusercontent.com/images/lxH7Uc0oeuZIOmCYJB0ZG6ImzU.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 566,
+      "sha256": "4d23fd56e97bf03fb1b38ab070d305fc34f68408d721df4fe5c03a36c641f948",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/m2BH3ieTEOm0MzcCN2TADIUcGQ.svg",
+      "url": "https://framerusercontent.com/images/m2BH3ieTEOm0MzcCN2TADIUcGQ.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 960,
+      "sha256": "7db23d1ab2a2c3cc1c33d2ef1e8cec8e650653ce6c181f962a139e12e2ece366",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/M4F48ReG8JnQ2pvkATnGJb0dSRk.png",
+      "url": "https://framerusercontent.com/images/M4F48ReG8JnQ2pvkATnGJb0dSRk.png",
+      "pages": [
+        "https://verrity.framer.website/changelog"
+      ],
+      "bytes": 4872,
+      "sha256": "e1d55202ed4d3fc4e2014c38e06822c8d09f1f216ec379dd286934c0e694b0b2",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/O5LgWqqX1QAwkAmVXjoF6Hd4k.svg",
+      "url": "https://framerusercontent.com/images/O5LgWqqX1QAwkAmVXjoF6Hd4k.svg",
+      "pages": [],
+      "bytes": 594,
+      "sha256": "31b36d98871b0de2af8b41c157fca029e949de5040fdfcd411aa2024ac428649",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/OAEGvuk0v8Ca7VwOcFIId2alI.svg",
+      "url": "https://framerusercontent.com/images/OAEGvuk0v8Ca7VwOcFIId2alI.svg",
+      "pages": [],
+      "bytes": 591,
+      "sha256": "df8ed0bbd52a8b632fd0aad4b8e65ac05d3241b141c33e63f559b0a2c0d37052",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/okLIs2s4rRVtZbiX9QOPazg5tA4.png",
+      "url": "https://framerusercontent.com/images/okLIs2s4rRVtZbiX9QOPazg5tA4.png",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 4944,
+      "sha256": "2f887702967d96e309915f002d8cd46c20ebfa92ad0f79333d3ca4db264d7da3",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/P1resJnIGnv1VjT1wVWbhoTSw4.svg",
+      "url": "https://framerusercontent.com/images/P1resJnIGnv1VjT1wVWbhoTSw4.svg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 980,
+      "sha256": "7ad0467e3603b6cfa0a0f40188a0eb3156a94dcf5f4b5312fadf62d9c915695c",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/P6dTnxNZpuFSOSJVfWsk3XGY6Gg.jpg",
+      "url": "https://framerusercontent.com/images/P6dTnxNZpuFSOSJVfWsk3XGY6Gg.jpg",
+      "pages": [
+        "https://verrity.framer.website/about",
+        "https://verrity.framer.website/careers"
+      ],
+      "bytes": 89883,
+      "sha256": "630d2f3220464dca499633e03d92cadaf79d7e96301f465faf303a3addc31981",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/QCWQz2sR3KocP1QexxggqGab0.jpg",
+      "url": "https://framerusercontent.com/images/QCWQz2sR3KocP1QexxggqGab0.jpg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 186519,
+      "sha256": "3befe837aa73b132c463aa7fe222b10e4ba4e66cde46ba041fa65a41c71e3a4e",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/qRNP7tuDbBNXq4mVb0yPQ9odFo.jpg",
+      "url": "https://framerusercontent.com/images/qRNP7tuDbBNXq4mVb0yPQ9odFo.jpg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 185731,
+      "sha256": "bddbf7e7419ec81a0f7dd664c1c093e2d2019b5c07916d77eab990cf9655989d",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/R9invuQl7TWHqWpsloodpj3iGNU.svg",
+      "url": "https://framerusercontent.com/images/R9invuQl7TWHqWpsloodpj3iGNU.svg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 599,
+      "sha256": "9425d8d56ae6294ae4c24b819188444939e8cc4bc684c109291e39ae7628cfb7",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/RkupyhVEh0CUBH1a5wsA3FcTew.svg",
+      "url": "https://framerusercontent.com/images/RkupyhVEh0CUBH1a5wsA3FcTew.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 287,
+      "sha256": "85ef72bc76845a7f49251b00afd0389c6833ce7f18a83f6da52268a27d1781e4",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/rPRGhfTOU3OwBIzfAp1pk4pffu8.jpg",
+      "url": "https://framerusercontent.com/images/rPRGhfTOU3OwBIzfAp1pk4pffu8.jpg",
+      "pages": [
+        "https://verrity.framer.website/blog/introducing-a-calmer-workspace-for-growing-teams",
+        "https://verrity.framer.website/blog/a-practical-guide-to-onboarding-your-whole-team",
+        "https://verrity.framer.website/blog/what-we-shipped-in-september",
+        "https://verrity.framer.website/blog/lessons-from-growing-to-10-000-customers",
+        "https://verrity.framer.website/blog/how-we-design-for-clarity",
+        "https://verrity.framer.website/blog/building-a-team-that-writes-things-down",
+        "https://verrity.framer.website/blog",
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 87615,
+      "sha256": "cea094ea4c610efb8350e2fc35c56ddeb151ec0de695e42398840ecd9ce76072",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/RxM5yzHp72ILbElHpb8TYt69TVc.jpg",
+      "url": "https://framerusercontent.com/images/RxM5yzHp72ILbElHpb8TYt69TVc.jpg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 6146,
+      "sha256": "bf31339485b6d25d03157589568e689c28550e1817210fb1fe4d7e31e4b97901",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/ST4MHtCVOtcAUWnyslX01w7JG0.png",
+      "url": "https://framerusercontent.com/images/ST4MHtCVOtcAUWnyslX01w7JG0.png",
+      "pages": [
+        "https://verrity.framer.website/changelog"
+      ],
+      "bytes": 4413,
+      "sha256": "a31986f501cde03553656bd5684e514299b29c72cf39afe7f3bdbbcdf0186100",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/TEf88PJtCZWpo6NhZ9ls1KU2ag.png",
+      "url": "https://framerusercontent.com/images/TEf88PJtCZWpo6NhZ9ls1KU2ag.png",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 1964,
+      "sha256": "3b9e511dc8ca8376533d63933f3b973a3284fd0167ac881c2e5e594684653124",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/u4jeSazsJWaZL6wPEpMKxWL56AU.png",
+      "url": "https://framerusercontent.com/images/u4jeSazsJWaZL6wPEpMKxWL56AU.png",
+      "pages": [
+        "https://verrity.framer.website/changelog"
+      ],
+      "bytes": 5060,
+      "sha256": "fc1b5afa2c234a4bee10644f90ad1a557fe04870b0e19cf75f697acab1e08c7e",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/uEumAprkFFPCt9HllRCMbatFPM.png",
+      "url": "https://framerusercontent.com/images/uEumAprkFFPCt9HllRCMbatFPM.png",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 2641,
+      "sha256": "0c4359bc7082b90be8236383744acf100d1533c0f72c8183affcadcf2667b6eb",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/uXE6sVcS477VXEDUYNRhLkIth8.svg",
+      "url": "https://framerusercontent.com/images/uXE6sVcS477VXEDUYNRhLkIth8.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 790,
+      "sha256": "eebe5f03454f517efc912214d05c52fde1f823f4278ff1b00909206cfaeef5e7",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/VgiYJajmUWBYowqtz1ZX7v7nxk.jpg",
+      "url": "https://framerusercontent.com/images/VgiYJajmUWBYowqtz1ZX7v7nxk.jpg",
+      "pages": [
+        "https://verrity.framer.website/blog/what-we-shipped-in-september",
+        "https://verrity.framer.website/blog/building-a-team-that-writes-things-down",
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 8938,
+      "sha256": "6480f484311de75b9aceaa10a83a210b0208b3f8ae7d655abced24ee029ab9e0",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/vO9NUIvqwHdgRYqWarL76VlR2k.svg",
+      "url": "https://framerusercontent.com/images/vO9NUIvqwHdgRYqWarL76VlR2k.svg",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 929,
+      "sha256": "4fe4cf0b599b48e7cc7f8e3e4885828703531de15c7ab79a5e89b64f21255ed7",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/W3N8oMZnMM1JLDCI1yGoLdBEU.jpg",
+      "url": "https://framerusercontent.com/images/W3N8oMZnMM1JLDCI1yGoLdBEU.jpg",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 771754,
+      "sha256": "5e1158bda13c765f04b47010b92044412db8653d107b439aadb0352c30618c44",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/WDofgCdQ7fqZ77FTnTiJGUCz1Q.svg",
+      "url": "https://framerusercontent.com/images/WDofgCdQ7fqZ77FTnTiJGUCz1Q.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 576,
+      "sha256": "53c332ac176c6c9ffa6c3f07f212b7428415918d6ae63f5d83fd7d444a3f91ce",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/wka5ux2IkbxEGAqFD6BVH8hpsEY.svg",
+      "url": "https://framerusercontent.com/images/wka5ux2IkbxEGAqFD6BVH8hpsEY.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 222,
+      "sha256": "c2f635090624e8b68472bff21c14dcca1831a1a14196e4e34a14682b45ef0aa5",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/wZxVsyVC29TReEHvRUjywCUGLo.jpg",
+      "url": "https://framerusercontent.com/images/wZxVsyVC29TReEHvRUjywCUGLo.jpg",
+      "pages": [
+        "https://verrity.framer.website/blog/introducing-a-calmer-workspace-for-growing-teams",
+        "https://verrity.framer.website/blog/lessons-from-growing-to-10-000-customers",
+        "https://verrity.framer.website/blog",
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 9236,
+      "sha256": "6020a4796aa34093926c0d42f1180bcb2efef8618c3f8d5567cce2c1fe97590f",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/X0VpYktDgGUeMOtaW0oLo3UEI8.jpg",
+      "url": "https://framerusercontent.com/images/X0VpYktDgGUeMOtaW0oLo3UEI8.jpg",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 88111,
+      "sha256": "a2d105b9adb3d998dbd65e3a535f98999f4704462128dbdfa081869702de02e0",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/Xe5vOjNnwglfC6zAAuErdNlgHs.png",
+      "url": "https://framerusercontent.com/images/Xe5vOjNnwglfC6zAAuErdNlgHs.png",
+      "pages": [
+        "https://verrity.framer.website/"
+      ],
+      "bytes": 2657,
+      "sha256": "f6e141bf2bd91a231bdc4570548a226dab442ac2b8eb0e461a7e24a78e721acf",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/yfzlxKfLiGOFR81jMLzSZZC8.svg",
+      "url": "https://framerusercontent.com/images/yfzlxKfLiGOFR81jMLzSZZC8.svg",
+      "pages": [
+        "https://verrity.framer.website/integrations"
+      ],
+      "bytes": 483,
+      "sha256": "1e10ceb1868de68f931949013dc94cc72483c59355821b398e81ef73b3a966ca",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/YlBDisMjuYSMhFzlRTUIsKbg.jpg",
+      "url": "https://framerusercontent.com/images/YlBDisMjuYSMhFzlRTUIsKbg.jpg",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 357883,
+      "sha256": "6a07239ee6c1456cf59440c17c00a1a5906f8bd8d134829cd70c4dc883efb230",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/ZFYk6SKqKS4tI3hkZ6ibiZUWYbo.jpg",
+      "url": "https://framerusercontent.com/images/ZFYk6SKqKS4tI3hkZ6ibiZUWYbo.jpg",
+      "pages": [
+        "https://verrity.framer.website/about",
+        "https://verrity.framer.website/contact"
+      ],
+      "bytes": 78216,
+      "sha256": "f5c97f6ce8a993e3c05d15586fccc9e7f5b7f82e004502dc96cb8e849470420a",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/zuBBUiu110kVDfYsiqMxy3huino.svg",
+      "url": "https://framerusercontent.com/images/zuBBUiu110kVDfYsiqMxy3huino.svg",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 251,
+      "sha256": "d2949b223a6b6e765bcffcc67cc063ff8f649f0e13cca679d2440501989a0902",
+      "license": "参考站素材；商业使用和素材再分发权未确认"
+    },
+    {
+      "file": "public/templates/verrity/images/value-0.svg",
+      "url": "https://verrity.framer.website/about",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 4249,
+      "sha256": "63d14967fd6cdd8704766c35a4bb8af2a94a7b940e3c93467da90400e4557f0d",
+      "license": "根据参考站可见线框图形重绘；设计再分发权未确认",
+      "derived": true
+    },
+    {
+      "file": "public/templates/verrity/images/value-1.svg",
+      "url": "https://verrity.framer.website/about",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 5617,
+      "sha256": "2b2953a157c2b668f5c65590d56c5635aed1703700f6496267783478e5b143a5",
+      "license": "根据参考站可见线框图形重绘；设计再分发权未确认",
+      "derived": true
+    },
+    {
+      "file": "public/templates/verrity/images/value-2.svg",
+      "url": "https://verrity.framer.website/about",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 3817,
+      "sha256": "8f66145b6acb790f75f96bd1761c10b33c1cea4357eef50ee99a0dceed0fe4b6",
+      "license": "根据参考站可见线框图形重绘；设计再分发权未确认",
+      "derived": true
+    },
+    {
+      "file": "public/templates/verrity/images/value-3.svg",
+      "url": "https://verrity.framer.website/about",
+      "pages": [
+        "https://verrity.framer.website/about"
+      ],
+      "bytes": 2349,
+      "sha256": "818d41c6bd644b9cafa1f1b206fb2cd378799dd3cab315fe5c7a55857f7aee83",
+      "license": "根据参考站可见线框图形重绘；设计再分发权未确认",
+      "derived": true
+    }
+  ],
+  "failures": []
+}

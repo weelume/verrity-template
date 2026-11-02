@@ -1,0 +1,1091 @@
+[
+  {
+    "slug": "senior-product-engineer",
+    "title": [
+      "高级产品工程师",
+      "Senior product engineer"
+    ],
+    "summary": [
+      "构建端到端的审核体验。",
+      "Build the review experience end to end."
+    ],
+    "department": [
+      "工程",
+      "Engineering"
+    ],
+    "location": [
+      "波尔图",
+      "Porto"
+    ],
+    "salary": "€92k–€108k",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": [
+          "关于职位",
+          "About the role"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "从数据库到最后一个像素，负责用户阅读答案、核查来源和签署审批的完整页面。",
+          "You'll own the screens people use to read an answer, check its sources and sign it off, from the database to the last pixel."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "你将负责",
+          "What you’ll do"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "从数据结构到界面，交付端到端产品功能。",
+          "Ship product features end to end, from schema to interface."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "与设计师一起打磨审核流程的每个细节。",
+          "Pair with design on every detail of the review flow."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "每周与客户讨论他们如何核查我们的工作。",
+          "Talk to customers every week about how they check our work."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "保持代码快速、类型明确、容易修改。",
+          "Keep the codebase fast, typed and easy to change."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "我们期待",
+          "What we look for"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "拥有六年以上 TypeScript 和 React 网站产品开发经验。",
+          "Six or more years building web products in TypeScript and React."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "关注性能、无障碍与清晰的代码。",
+          "Care for performance, accessibility and clear code."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "愿意对实际结果负责，而不只完成工单。",
+          "You enjoy owning outcomes, not just tickets."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "infrastructure-engineer",
+    "title": [
+      "基础设施工程师",
+      "Infrastructure engineer"
+    ],
+    "summary": [
+      "让每个答案快速返回 每个来源随时可查。",
+      "Keep every answer fast and every source reachable."
+    ],
+    "department": [
+      "工程",
+      "Engineering"
+    ],
+    "location": [
+      "欧洲远程",
+      "Remote, Europe"
+    ],
+    "salary": "€95k–€115k",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": [
+          "关于职位",
+          "About the role"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "负责存储数百万份文档的系统，并让附有引用的答案在一秒内返回。",
+          "You'll run the systems that store millions of documents and serve answers with their citations in under a second."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "你将负责",
+          "What you’ll do"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "设计和运行存储、搜索及模型服务基础设施。",
+          "Design and run our storage, search and model-serving infrastructure."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "让部署平稳，让故障少见。",
+          "Make deploys boring and incidents rare."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "构建工程师日常依赖的内部工具。",
+          "Build the tools other engineers reach for every day."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "在规模增长时对成本与性能负责。",
+          "Own cost and performance as we grow."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "我们期待",
+          "What we look for"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "拥有五年以上大规模生产系统运维经验。",
+          "Five or more years running production systems at scale."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "熟悉 Kubernetes、Postgres 和至少一种主流云平台。",
+          "Strong with Kubernetes, Postgres and one major cloud."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "在变更前习惯先写下设计。",
+          "You write things down before you change them."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "frontend-engineer",
+    "title": [
+      "前端工程师",
+      "Frontend engineer"
+    ],
+    "summary": [
+      "打造核查与审批时每天使用的界面。",
+      "Craft the interfaces people use to check and sign off."
+    ],
+    "department": [
+      "工程",
+      "Engineering"
+    ],
+    "location": [
+      "纽约",
+      "New York"
+    ],
+    "salary": "$150k–$175k",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": [
+          "关于职位",
+          "About the role"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "构建客户每天使用的编辑器、引用视图和审核队列。",
+          "You'll build the editor, the citation view and the review queue that customers spend their whole day in."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "你将负责",
+          "What you’ll do"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "使用 React 和 TypeScript 构建快速、无障碍的界面。",
+          "Build fast, accessible interfaces in React and TypeScript."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "把粗略原型打磨成从容、可靠的产品。",
+          "Turn rough prototypes into calm, reliable product."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "与设计团队共同维护设计系统。",
+          "Own the design system alongside design."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "衡量和改善产品的实际使用感受。",
+          "Measure and improve how the product feels."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "我们期待",
+          "What we look for"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "拥有四年以上复杂 Web 应用开发经验。",
+          "Four or more years building complex web apps."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "关注动效、排版和那些没人特意提出的细节。",
+          "An eye for motion, typography and the details nobody asks for."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "适应小步、频繁且谨慎的交付。",
+          "Comfort shipping small, often, and carefully."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "engineering-manager",
+    "title": [
+      "工程经理",
+      "Engineering manager"
+    ],
+    "summary": [
+      "带领一支五人的产品工程团队。",
+      "Lead a team of five product engineers."
+    ],
+    "department": [
+      "工程",
+      "Engineering"
+    ],
+    "location": [
+      "波尔图",
+      "Porto"
+    ],
+    "salary": "€110k–€130k",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": [
+          "关于职位",
+          "About the role"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "帮助资深小团队交付值得自豪的成果，同时保持高标准和可持续的工作节奏。",
+          "You'll help a small, senior team ship work they're proud of, while keeping the bar high and the pace sustainable."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "你将负责",
+          "What you’ll do"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "带领五位工程师开发核心产品。",
+          "Run a team of five engineers working on the core product."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "招聘、辅导并支持团队成员成长。",
+          "Hire, coach and grow the people on your team."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "与产品和设计制定计划，保护团队的专注时间。",
+          "Plan with product and design, then protect the team's focus."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "在有帮助时继续参与编码。",
+          "Still write code when it helps."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "我们期待",
+          "What we look for"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "有两年以上工程管理经验及扎实的工程背景。",
+          "Two or more years managing engineers, and a strong engineering background."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "习惯记录设计并解释决策。",
+          "A habit of writing things down and explaining your decisions."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "既关注交付成果，也关注团队成员的感受。",
+          "You care as much about how people feel as what they ship."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "applied-ai-researcher",
+    "title": [
+      "应用 AI 研究员",
+      "Applied AI researcher"
+    ],
+    "summary": [
+      "设计决定产品能否交付的评估。",
+      "Design the evaluations that decide what ships."
+    ],
+    "department": [
+      "研究",
+      "Research"
+    ],
+    "location": [
+      "欧洲远程",
+      "Remote, Europe"
+    ],
+    "salary": "€110k–€135k",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": [
+          "关于职位",
+          "About the role"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "为必须展示来源的 AI 定义质量标准，再构建能够验证这些标准的测试。",
+          "You'll decide what good looks like for an AI that has to show its sources, then build the tests that prove it."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "你将负责",
+          "What you’ll do"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "设计引用准确性与忠实度评估。",
+          "Design evaluations for citation accuracy and faithfulness."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "把审核反馈转化为更好的训练数据。",
+          "Turn reviewer feedback into better training data."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "开展实验并记录发现。",
+          "Run experiments and write up what you find."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "一次与一位工程师共同解决一个客户问题。",
+          "Work with one engineer on one customer problem at a time."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "我们期待",
+          "What we look for"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "在应用机器学习或自然语言处理方面有实际成果。",
+          "A track record in applied machine learning or NLP."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "熟悉 Python，能够阅读论文和代码。",
+          "Strong Python, and comfort reading papers and code."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "更重视真实数据，而不是好看的数字。",
+          "You prefer honest numbers to impressive ones."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "evaluation-scientist",
+    "title": [
+      "评估科学家",
+      "Evaluation scientist"
+    ],
+    "summary": [
+      "诚实地衡量准确性。",
+      "Measure accuracy honestly."
+    ],
+    "department": [
+      "研究",
+      "Research"
+    ],
+    "location": [
+      "波尔图",
+      "Porto"
+    ],
+    "salary": "€85k–€100k",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": [
+          "关于职位",
+          "About the role"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "构建基准，判断一次变更让 Verity 变得更好，还是仅仅不同。",
+          "You'll build the benchmarks we use to know whether a change made Verity better or just different."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "你将负责",
+          "What you’ll do"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "构建和维护评估数据集与基准。",
+          "Build and maintain our evaluation sets and benchmarks."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "分析失败并向团队解释原因。",
+          "Analyse failures and explain them to the team."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "与审核人协作，标注复杂案例。",
+          "Work with reviewers to label hard cases."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "每周清晰报告质量表现。",
+          "Report quality clearly every week."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "我们期待",
+          "What we look for"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "具有统计学、数据科学或机器学习背景。",
+          "A background in statistics, data science or ML."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "重视实验设计与数据质量。",
+          "Care for experimental design and clean data."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "能够向非科研人员解释实验结果。",
+          "You can explain results to people who aren't scientists."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "product-designer",
+    "title": [
+      "产品设计师",
+      "Product designer"
+    ],
+    "summary": [
+      "设计团队与可核查 AI 协作的方式。",
+      "Shape how teams work with an AI they can verify."
+    ],
+    "department": [
+      "设计",
+      "Design"
+    ],
+    "location": [
+      "纽约",
+      "New York"
+    ],
+    "salary": "$140k–$165k",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": [
+          "关于职位",
+          "About the role"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "帮助法务、财务与合规团队使用可核查的 AI。每个答案都有来源，你的工作是让核查变得轻松自然。",
+          "You'll shape how legal, finance and compliance teams work with an AI they can verify. Every answer Verity gives comes with its sources; your job is to make checking them feel effortless."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "你将负责",
+          "What you’ll do"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "从第一张草图到发布说明，负责完整审核体验。",
+          "Own the review experience end to end, from first sketch to release notes."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "每周参与客户沟通，把听到的需求转化为设计。",
+          "Sit in on customer calls every week and turn what you hear into design."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "静态稿不够时，用代码制作原型。",
+          "Prototype in code when a static mock isn't enough."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "一次与一位工程师和一位研究员一起解决一个问题。",
+          "Work with one engineer and one researcher on a single problem at a time."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "我们期待",
+          "What we look for"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "拥有五年以上复杂、高数据量产品的设计经验。",
+          "Five or more years designing complex, data-heavy products."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "能够解释自己的设计判断，并介绍引以为傲的作品。",
+          "Taste you can explain, and work you're proud to walk us through."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "适应不确定性，耐心打磨细节。",
+          "Comfort with ambiguity, and the patience to get details right."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "brand-designer",
+    "title": [
+      "品牌设计师",
+      "Brand designer"
+    ],
+    "summary": [
+      "赋予 Verity 值得信赖的声音与形象。",
+      "Give Verity a voice and a look people trust."
+    ],
+    "department": [
+      "设计",
+      "Design"
+    ],
+    "location": [
+      "波尔图",
+      "Porto"
+    ],
+    "salary": "€70k–€85k",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": [
+          "关于职位",
+          "About the role"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "负责产品之外的品牌呈现，从网站到团队举办的活动。",
+          "You'll own how Verity looks and sounds everywhere outside the product, from the website to the events we host."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "你将负责",
+          "What you’ll do"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "维护网站、印刷品与活动中的视觉识别。",
+          "Own our visual identity across web, print and events."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "设计新品发布、宣传活动和插图。",
+          "Design launches, campaigns and illustrations."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "与产品设计紧密协作，让体验始终一致。",
+          "Work closely with product design so everything feels like one company."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "让品牌系统整洁且易于使用。",
+          "Keep the brand system tidy and easy to use."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "我们期待",
+          "What we look for"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "拥有四年以上品牌或传播设计经验。",
+          "Four or more years in brand or communication design."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "拥有重视字体与排版的优秀作品集。",
+          "A strong portfolio with typography at its heart."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "享受让许多小事物形成统一整体。",
+          "You enjoy making many small things look like one thing."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "customer-engineer",
+    "title": [
+      "客户工程师",
+      "Customer engineer"
+    ],
+    "summary": [
+      "帮助新团队在头两周真正用起来。",
+      "Help new teams go live in their first two weeks."
+    ],
+    "department": [
+      "客户",
+      "Customers"
+    ],
+    "location": [
+      "纽约",
+      "New York"
+    ],
+    "salary": "$130k–$150k",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": [
+          "关于职位",
+          "About the role"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "作为新客户接触的第一位成员，帮助他们放心地将真实文档接入 Verity。",
+          "You'll be the first person a new customer works with, and the reason they trust Verity with their real documents."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "你将负责",
+          "What you’ll do"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "主导新客户的技术接入。",
+          "Lead technical onboarding for new customers."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "将 Verity 连接到客户的文档系统。",
+          "Connect Verity to their document systems."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "把接入过程中的发现转化为产品反馈。",
+          "Turn what you learn into product feedback."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "编写指南，让下一次接入更加顺畅。",
+          "Write guides that make the next onboarding faster."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "我们期待",
+          "What we look for"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "有三年以上解决方案、支持或工程岗位经验。",
+          "Three or more years in solutions, support or engineering roles."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "熟悉 API、SSO 和数据集成。",
+          "Comfort with APIs, SSO and data integrations."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "耐心，善于用简单方式解释问题。",
+          "Patience, and a knack for explaining things simply."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "solutions-lead",
+    "title": [
+      "解决方案负责人",
+      "Solutions lead"
+    ],
+    "summary": [
+      "从初次沟通到续约 负责重要客户。",
+      "Own our largest accounts, from first call to renewal."
+    ],
+    "department": [
+      "客户",
+      "Customers"
+    ],
+    "location": [
+      "波尔图",
+      "Porto"
+    ],
+    "salary": "€90k–€105k",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": [
+          "关于职位",
+          "About the role"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "帮助大型团队从 Verity 获得实际价值，并愿意持续使用。",
+          "You'll help the biggest teams we work with get real value from Verity, and make sure they stay."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "你将负责",
+          "What you’ll do"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "维护与重要客户的合作关系。",
+          "Lead relationships with our largest customers."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "规划同一公司内多个团队的推广使用。",
+          "Plan rollouts across many teams inside one company."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "把客户声音带回产品团队。",
+          "Bring the voice of the customer to product."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "通过解决真实问题实现客户增长。",
+          "Grow accounts by solving real problems, not by selling."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "我们期待",
+          "What we look for"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "拥有五年以上面向客户的技术岗位经验。",
+          "Five or more years in customer-facing technical roles."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "有服务法务、财务或合规团队的经验。",
+          "Experience with legal, finance or compliance teams."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "压力下保持冷静，需要拒绝时坦诚说明。",
+          "Calm under pressure, and honest when the answer is no."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "recruiting-lead",
+    "title": [
+      "招聘负责人",
+      "Recruiting lead"
+    ],
+    "summary": [
+      "找到共同创造未来五年的伙伴。",
+      "Find the people who will build the next five years."
+    ],
+    "department": [
+      "运营",
+      "Operations"
+    ],
+    "location": [
+      "波尔图",
+      "Porto"
+    ],
+    "salary": "€75k–€90k",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": [
+          "关于职位",
+          "About the role"
+        ]
+      },
+      {
+        "kind": "p",
+        "text": [
+          "负责端到端招聘，让每位候选人无论是否加入都拥有良好体验。",
+          "You'll run hiring end to end and make sure every candidate has a great experience, whether or not they join."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "你将负责",
+          "What you’ll do"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "从初次沟通到录用通知，负责完整招聘流程。",
+          "Run our hiring process from first call to offer."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "主动发现尚未寻找机会的优秀人才。",
+          "Find great people who aren't looking."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "在每一步都及时告知候选人进展。",
+          "Keep every candidate informed, every step of the way."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "让公开薪资区间和招聘流程更加清晰。",
+          "Make our public pay bands and process even clearer."
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": [
+          "我们期待",
+          "What we look for"
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "拥有四年以上工程或设计团队招聘经验。",
+          "Four or more years recruiting for engineering or design teams."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "以体贴、尊重的方式对待候选人。",
+          "A thoughtful, human approach to candidates."
+        ]
+      },
+      {
+        "kind": "li",
+        "text": [
+          "和招聘速度一样重视公平。",
+          "You care about fairness as much as speed."
+        ]
+      }
+    ]
+  }
+]
