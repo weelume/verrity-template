@@ -1,0 +1,86 @@
+{
+  "$schema": "../schemas/verification.schema.json",
+  "format": "git-template-verification",
+  "formatVersion": "0.2.0",
+  "status": "passed",
+  "checkedAt": "2026-11-02T18:20:53.717Z",
+  "sourceCommit": "db8d69a33905f185b3a729804d5bba594deff7f5",
+  "sourceDigest": "7abf30c2e21343c311c513c9567be9125c4dc5c14005f6758de18a5920c8cc21",
+  "environment": {
+    "platform": "WSL Ubuntu Linux 本地文件系统",
+    "arch": "x64",
+    "node": "v24.16.0",
+    "packageManager": "pnpm 9.15.4",
+    "cleanDirectory": true,
+    "localGitClone": true
+  },
+  "checks": [
+    {
+      "id": "typecheck",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-02T18:20:22.791Z",
+      "finishedAt": "2026-11-02T18:20:24.675Z"
+    },
+    {
+      "id": "lint",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-02T18:20:24.675Z",
+      "finishedAt": "2026-11-02T18:20:30.941Z"
+    },
+    {
+      "id": "test",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-02T18:20:30.941Z",
+      "finishedAt": "2026-11-02T18:20:31.900Z"
+    },
+    {
+      "id": "build",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-02T18:20:31.900Z",
+      "finishedAt": "2026-11-02T18:20:50.036Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "web",
+      "status": "passed",
+      "stopped": true,
+      "checkedAt": "2026-11-02T18:20:53.717Z"
+    }
+  ],
+  "limitations": [
+    "应用检查通过不等于原站全部动效逐帧一致；线框投影与部分节奏按可见几何重建，未量化所有缓动参数。",
+    "已检查四宽度双语13类页面共104种布局组合；循环、菜单、表单、筛选、语言路径及轮播有实际操作证据，未穷举全部三端交互组合。",
+    "系统减少动态效果分支未实机切换，桌面滚动条滑块及所有内部区域未全面拖动验证。",
+    "表单只本地校验，身份服务、邮件、招聘、支付及持久化未接入。",
+    "参考站素材及设计的商业使用与再分发授权未确认，默认不公开上架。"
+  ]
+}
