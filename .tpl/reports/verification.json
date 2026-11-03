@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-11-03T03:25:09.561Z",
-  "sourceCommit": "c4c4a212c1c3ed4ceb9a3136fdd150539de5be07",
-  "sourceDigest": "d2808ed0658c4c42dead626f9d82c54b5f120c0035cebcef174dbc8b75e4a6bc",
+  "checkedAt": "2026-11-03T03:39:34.819Z",
+  "sourceCommit": "8686df255dc049bf12082a666e04bda2c59bdc34",
+  "sourceDigest": "6f1854108dba826c47fcf692fd13cbcddb4d92b9be23385887cc6f3d0e303128",
   "environment": {
     "platform": "WSL Ubuntu Linux 本地文件系统",
     "arch": "x64",
@@ -25,8 +25,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T03:24:38.223Z",
-      "finishedAt": "2026-11-03T03:24:43.150Z"
+      "startedAt": "2026-11-03T03:39:08.615Z",
+      "finishedAt": "2026-11-03T03:39:10.422Z"
     },
     {
       "id": "lint",
@@ -38,8 +38,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T03:24:43.150Z",
-      "finishedAt": "2026-11-03T03:24:46.463Z"
+      "startedAt": "2026-11-03T03:39:10.422Z",
+      "finishedAt": "2026-11-03T03:39:13.936Z"
     },
     {
       "id": "test",
@@ -51,8 +51,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T03:24:46.463Z",
-      "finishedAt": "2026-11-03T03:24:47.207Z"
+      "startedAt": "2026-11-03T03:39:13.937Z",
+      "finishedAt": "2026-11-03T03:39:14.770Z"
     },
     {
       "id": "build",
@@ -64,8 +64,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T03:24:47.208Z",
-      "finishedAt": "2026-11-03T03:25:05.833Z"
+      "startedAt": "2026-11-03T03:39:14.770Z",
+      "finishedAt": "2026-11-03T03:39:31.602Z"
     }
   ],
   "services": [
@@ -73,7 +73,7 @@
       "id": "web",
       "status": "passed",
       "stopped": true,
-      "checkedAt": "2026-11-03T03:25:09.561Z"
+      "checkedAt": "2026-11-03T03:39:34.819Z"
     }
   ],
   "limitations": [
