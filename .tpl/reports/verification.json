@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-11-03T02:53:20.970Z",
-  "sourceCommit": "67f8663b85485f5621973aa1d57353d56b252247",
-  "sourceDigest": "72d3e47e94dd32827aff94f743f8e1c13972f0ded9fc6785ec78b18a0367ca40",
+  "checkedAt": "2026-11-03T03:25:09.561Z",
+  "sourceCommit": "c4c4a212c1c3ed4ceb9a3136fdd150539de5be07",
+  "sourceDigest": "d2808ed0658c4c42dead626f9d82c54b5f120c0035cebcef174dbc8b75e4a6bc",
   "environment": {
     "platform": "WSL Ubuntu Linux 本地文件系统",
     "arch": "x64",
@@ -25,8 +25,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T02:52:36.958Z",
-      "finishedAt": "2026-11-03T02:52:40.050Z"
+      "startedAt": "2026-11-03T03:24:38.223Z",
+      "finishedAt": "2026-11-03T03:24:43.150Z"
     },
     {
       "id": "lint",
@@ -38,8 +38,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T02:52:40.051Z",
-      "finishedAt": "2026-11-03T02:52:47.762Z"
+      "startedAt": "2026-11-03T03:24:43.150Z",
+      "finishedAt": "2026-11-03T03:24:46.463Z"
     },
     {
       "id": "test",
@@ -51,8 +51,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T02:52:47.762Z",
-      "finishedAt": "2026-11-03T02:52:48.713Z"
+      "startedAt": "2026-11-03T03:24:46.463Z",
+      "finishedAt": "2026-11-03T03:24:47.207Z"
     },
     {
       "id": "build",
@@ -64,8 +64,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T02:52:48.713Z",
-      "finishedAt": "2026-11-03T02:53:14.335Z"
+      "startedAt": "2026-11-03T03:24:47.208Z",
+      "finishedAt": "2026-11-03T03:25:05.833Z"
     }
   ],
   "services": [
@@ -73,7 +73,7 @@
       "id": "web",
       "status": "passed",
       "stopped": true,
-      "checkedAt": "2026-11-03T02:53:20.970Z"
+      "checkedAt": "2026-11-03T03:25:09.561Z"
     }
   ],
   "limitations": [
@@ -81,6 +81,8 @@
     "已检查四宽度双语13类页面共104种布局组合；循环、菜单、表单、筛选、语言路径及轮播有实际操作证据，未穷举全部三端交互组合。",
     "系统减少动态效果分支未实机切换，桌面滚动条滑块及所有内部区域未全面拖动验证。",
     "表单只本地校验，身份服务、邮件、招聘、支付及持久化未接入。",
-    "参考站素材及设计的商业使用与再分发授权未确认，默认不公开上架。"
+    "参考站素材及设计的商业使用与再分发授权未确认，默认不公开上架。",
+    "1.0.2 原站网络请求超时，静态修正依据既有截图与页面捕获；原站最新动效逐帧复验未完成。",
+    "104种布局为前期记录；1.0.2 新增运行检查范围为首页中英文四个视口和功能轮播交互。"
   ]
 }
