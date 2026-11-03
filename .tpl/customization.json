@@ -68,6 +68,16 @@
           "path": "src/features/verrity/pages.css",
           "kind": "file",
           "purpose": "页面响应式"
+        },
+        {
+          "path": "src/features/verrity/workspace.css",
+          "kind": "file",
+          "purpose": "首页 AI 工作台与逐字文字布局"
+        },
+        {
+          "path": "src/features/verrity/workflow.css",
+          "kind": "file",
+          "purpose": "首页工作流程、场景与浮动导航"
         }
       ],
       "constraints": [

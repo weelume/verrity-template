@@ -1,6 +1,6 @@
 # 模板使用入口
 
-这是可运行的 Next.js + React + TypeScript 前端工程，协议 `git-template`，格式版本 `0.2.0`，模板版本 `1.0.0`。市场元数据在 `template.json`，操作、服务与环境合同在 `project.json`，常见修改入口在 `customization.json`。
+这是可运行的 Next.js + React + TypeScript 前端工程，协议 `git-template`，格式版本 `0.2.0`，模板版本 `1.0.1`。市场元数据在 `template.json`，操作、服务与环境合同在 `project.json`，常见修改入口在 `customization.json`。
 
 按顺序阅读根目录 `README.md`、本目录 `template.json`、`project.json`，再阅读 `docs/ARCHITECTURE.md`、`CUSTOMIZATION.md`、`VERIFICATION.md` 与 `LICENSE.md`。
 

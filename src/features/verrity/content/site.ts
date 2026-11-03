@@ -8,7 +8,7 @@ export const logoNames=['Northwind','Halvard','Aster Holdings','Kestrel','Orbis'
 export const workflow=[
  {title:['每个请求 都能读懂','Every request, understood'],description:['读取各个工具中的请求，理解实际需求，并找到合适的负责人。','Verity reads requests from every tool, works out what is needed and finds the right owner.']},
  {title:['工作 已经拟好','The work, already drafted'],description:['整合政策与历史记录，准备好一份有依据的草稿，供你审核。','Verity gathers the context and prepares a grounded draft for you to review.']},
- {title:['决定 由你来做','You make the call'],description:['凡是需要判断的例外，都会先交给你。每次决定都有完整记录。','Anything that needs judgement comes to you first, with the context for a clear decision.']},
+ {title:['决定 由你来做','You make the call'],description:['凡是需要判断的例外，都会先交给你。每次决定都有完整记录。','Anything that matters waits for one click. Everyone is told the moment you decide.']},
 ] satisfies {title:Text;description:Text}[]
 export const features=[
  {title:['团队协作','Team collaboration'],description:['一起评论、提及与编辑。','Comment, mention and edit together.']},

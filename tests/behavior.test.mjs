@@ -3,6 +3,18 @@ import assert from 'node:assert/strict'
 import {readFile} from 'node:fs/promises'
 import {calculatePrice,languageHref,pageHref} from '../src/features/verrity/utils.ts'
 import {localized,detailBlocks} from '../src/features/verrity/content/schema.ts'
+import {workbenchSummary,workbenchClaims,workbenchSources,renewalRows} from '../src/features/verrity/content/workbench.ts'
+test('工作台不能再遗漏结论：三段主张、三处来源和三份续约完整对应',()=>{
+ for(const locale of [0,1]){
+  assert.equal(workbenchClaims.map(claim=>claim[locale]).join('').replaceAll(' ',''),workbenchSummary[locale].replaceAll(' ',''))
+  assert.match(workbenchSummary[locale],/12%/)
+  assert.match(workbenchSummary[locale],/8%/)
+  assert.match(workbenchSummary[locale],/21/)
+  for(const source of workbenchSources){assert.ok(source.title[locale]);assert.ok(source.meta[locale]);assert.ok(source.quote[locale])}
+ }
+ assert.equal(workbenchSources.length,3)
+ assert.deepEqual(renewalRows.map(row=>row.company),['Northwind','Halcyon','Brightline'])
+})
 test('价格计算器：12 人专业版年付与月付，年度席位成本和节省金额一致',()=>{
  assert.deepEqual(calculatePrice(12,'pro','yearly'),{perSeat:39,annualPerSeat:468,annualTotal:5616,savings:1440})
  assert.deepEqual(calculatePrice(12,'pro','monthly'),{perSeat:49,annualPerSeat:588,annualTotal:7056,savings:1440})
