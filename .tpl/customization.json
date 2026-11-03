@@ -78,6 +78,16 @@
           "path": "src/features/verrity/workflow.css",
           "kind": "file",
           "purpose": "首页工作流程、场景与浮动导航"
+        },
+        {
+          "path": "src/features/verrity/features.css",
+          "kind": "file",
+          "purpose": "首页功能轮播、角色菜单和界面示意"
+        },
+        {
+          "path": "src/features/verrity/pillars.css",
+          "kind": "file",
+          "purpose": "产品三卡与审核队列"
         }
       ],
       "constraints": [

@@ -14,7 +14,9 @@
 | `components/Workbench.tsx` | 阅读、答案、逐项引用的阶段循环 |
 | `components/Animation.tsx` | 可暂停循环、计数、滚动数字和逐字呈现 |
 | `components/Scenes.tsx` | 线框门体与插头的几何和生命周期 |
-| `components/ProductSections.tsx` | 流程切换、功能拖拽、安全与评价 |
+| `components/ProductSections.tsx` | 数据、安全与评价 |
+| `components/FeatureCarousel.tsx` | 功能轮播、权限菜单及六类界面示意 |
+| `components/Workflow.tsx` / `ProductPillars.tsx` | 工作流程与产品三卡 |
 | `components/Forms.tsx` | 本地校验、文件检查和明确的未发送状态 |
 | `pages/` | 各页面内容与公共区块组合 |
 | `theme.css` / `pages.css` | 主题令牌、组件与响应式样式，均限定模板作用域 |
