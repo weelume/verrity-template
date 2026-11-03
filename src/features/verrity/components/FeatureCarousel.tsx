@@ -5,14 +5,14 @@ import {features} from '../content/site'
 import {t} from '../types'
 import {featurePeople,featureRoles as roles,featureComments,featureAutomation,featureNotices,featureResults} from '../content/feature-previews'
 import {debug} from '../utils'
-import {Copy,Picture,SectionHeading,usePage} from './Primitives'
+import {AvatarGroup,Copy,Picture,SectionHeading,usePage} from './Primitives'
 import {WorkspaceIcon,type WorkspaceIconName} from './WorkspaceIcon'
 import {useCycle} from './Animation'
 
 const portraits=featurePeople.map(person=>person.image)
 const iconNames:WorkspaceIconName[]=['message','chart','shield','workflow','inbox','search']
 
-function Avatars(){return <span className="v-feature-avatars">{portraits.map(file=><Picture file={file} key={file}/>)}</span>}
+function Avatars(){return <AvatarGroup files={portraits} className="v-feature-avatars"/>}
 function Collaboration(){const reduced=useReducedMotion();return <><div className="v-feature-presence"><Avatars/><small><Copy text={['3 人正在编辑','3 editing']}/></small></div><div className="v-feature-thread">{featureComments.map(({person,time,text:line},index)=><motion.div className="v-thread-message" key={person} initial={reduced?false:{opacity:0,y:10}} whileInView={{opacity:1,y:0}} viewport={{once:true}} transition={{delay:index*.45,duration:.6}}><Picture file={portraits[index]}/><div><div className="v-thread-meta"><b>{featurePeople[person].name}</b><small>{time==='now'?<Copy text={['刚刚','now']}/>:String(time)}</small></div><p><Copy text={line}/> {index===0&&<mark>@Jonas</mark>}</p>{index===0&&<div className="v-feature-reactions"><span><WorkspaceIcon name="check"/> 2</span><span><WorkspaceIcon name="message"/></span></div>}</div></motion.div>)}<div className="v-feature-reply"><Copy text={['回复…','Reply…']}/><span>•••</span></div></div></>}
 function Analytics(){const reduced=useReducedMotion();return <div className="v-feature-analytics"><small><Copy text={['活跃用户','Active users']}/><span><Copy text={['最近 30 天','Last 30 days']}/></span></small><h4>12,480 <small>＋18.2%</small></h4><motion.div className="v-feature-chart" initial={reduced?false:{clipPath:'inset(0 100% 0 0)'}} whileInView={{clipPath:'inset(0 0% 0 0)'}} viewport={{once:true}} transition={{duration:1.8,ease:'easeOut'}}><Picture file="fqb4v6RWZm02uFEpMQAwW15RKw.svg"/></motion.div><div className="v-feature-axis"><span>Sep 10</span><span>Sep 25</span><span>Oct 9</span></div></div>}
 function Members(){

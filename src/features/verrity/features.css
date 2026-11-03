@@ -12,8 +12,7 @@
 .verrity .v-feature-illustration b{font-weight:400}
 .verrity .v-feature-illustration img{object-fit:cover}
 .verrity .v-feature-presence{display:flex;align-items:center;justify-content:flex-end;gap:7px;margin:3px 0 10px}
-.verrity .v-feature-avatars{display:inline-flex;padding-left:5px}
-.verrity .v-feature-avatars img{height:23px;width:23px;border-radius:50%;border:2px solid var(--v-bg);margin-left:-5px}
+.verrity .v-feature-avatars{--v-avatar-size:23px}
 .verrity .v-feature-thread,.verrity .v-feature-analytics,.verrity .v-feature-members,.verrity .v-feature-notifications,.verrity .v-feature-search{border:1px solid var(--v-border);border-radius:12px;background:linear-gradient(150deg,#30291f,#201c17);box-shadow:0 15px 25px #0003}
 .verrity .v-thread-message{display:flex;gap:8px;padding:12px 10px;border-bottom:1px solid var(--v-border)}
 .verrity .v-thread-message>img{width:25px;height:25px;border-radius:50%;flex-shrink:0}
